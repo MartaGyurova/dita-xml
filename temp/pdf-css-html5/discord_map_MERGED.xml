@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap">Discord End User Guide</title>
+    <topicref class="- map/topicref " xtrc="topicref:1;5:44" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap" href="#unique_1" id="unique_1" type="concept" ohref="what_is_discord.dita" first_topic_id="#unique_1"><topicmeta class="- map/topicmeta " data-topic-id="what_is_discord"><resourceid class="- topic/resourceid " oxy-source="topic" appid="what_is_discord"/><navtitle class="- topic/navtitle ">What is Discord?</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is Discord?</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
+    <topichead id="d106e25" class="+ map/topicref mapgroup-d/topichead " navtitle="Servers" xtrc="topichead:1;6:35" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap"><topicref class="- map/topicref " xtrc="topicref:2;7:49" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap" href="#unique_2" id="unique_2" type="concept" ohref="what_is_a_server.dita" first_topic_id="#unique_2"><topicmeta class="- map/topicmeta " data-topic-id="what_is_a_server"><resourceid class="- topic/resourceid " oxy-source="topic" appid="what_is_a_server"/><navtitle class="- topic/navtitle ">What is a Server?</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is a Server?</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:3;8:53" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap" href="#unique_3" id="unique_3" type="task" ohref="how_to_make_a_server.dita" first_topic_id="#unique_3"><topicmeta class="- map/topicmeta " data-topic-id="how_to_make_a_server"><resourceid class="- topic/resourceid " oxy-source="topic" appid="how_to_make_a_server"/><navtitle class="- topic/navtitle ">How to Make a Server</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to Make a Server</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:4;9:62" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap" href="#unique_4" id="unique_4" type="task" ohref="how_to_add_people_in_a_server.dita" first_topic_id="#unique_4"><topicmeta class="- map/topicmeta " data-topic-id="how_to_add_people_in_a_server"><resourceid class="- topic/resourceid " oxy-source="topic" appid="how_to_add_people_in_a_server"/><navtitle class="- topic/navtitle ">How to Add People in a Server</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to Add People in a Server</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
+    <topichead id="d106e57" class="+ map/topicref mapgroup-d/topichead " navtitle="Voice Channels" xtrc="topichead:2;11:42" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap"><topicref class="- map/topicref " xtrc="topicref:5;12:60" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap" href="#unique_5" id="unique_5" type="task" ohref="how_to_join_a_voice_channel.dita" first_topic_id="#unique_5"><topicmeta class="- map/topicmeta " data-topic-id="how_to_join_a_voice_channel"><resourceid class="- topic/resourceid " oxy-source="topic" appid="how_to_join_a_voice_channel"/><navtitle class="- topic/navtitle ">How to Join a Voice Channel</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to Join a Voice Channel</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:6;13:57" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap" href="#unique_6" id="unique_6" type="task" ohref="how_to_share_your_screen.dita" first_topic_id="#unique_6"><topicmeta class="- map/topicmeta " data-topic-id="how_to_share_your_screen"><resourceid class="- topic/resourceid " oxy-source="topic" appid="how_to_share_your_screen"/><navtitle class="- topic/navtitle ">How to Share Your Screen</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to Share Your Screen</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:7;14:54" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap" href="#unique_7" id="unique_7" type="task" ohref="how_to_watch_a_stream.dita" first_topic_id="#unique_7"><topicmeta class="- map/topicmeta " data-topic-id="how_to_watch_a_stream"><resourceid class="- topic/resourceid " oxy-source="topic" appid="how_to_watch_a_stream"/><navtitle class="- topic/navtitle ">How to Watch a Stream</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to Watch a Stream</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:8;15:54" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap" href="#unique_8" id="unique_8" type="task" ohref="how_to_mute_or_deafen.dita" first_topic_id="#unique_8"><topicmeta class="- map/topicmeta " data-topic-id="how_to_mute_or_deafen"><resourceid class="- topic/resourceid " oxy-source="topic" appid="how_to_mute_or_deafen"/><navtitle class="- topic/navtitle ">How to Mute or Deafen</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to Mute or Deafen</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
+    <topichead id="d106e99" class="+ map/topicref mapgroup-d/topichead " navtitle="Customizations" xtrc="topichead:3;17:42" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap"><topicref class="- map/topicref " xtrc="topicref:9;18:70" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap" href="#unique_9" id="unique_9" type="task" ohref="how_to_add_custom_emoticons_to_server.dita" first_topic_id="#unique_9"><topicmeta class="- map/topicmeta " data-topic-id="how_to_add_custom_emoticons_to_server"><resourceid class="- topic/resourceid " oxy-source="topic" appid="how_to_add_custom_emoticons_to_server"/><navtitle class="- topic/navtitle ">How to Add Custom Emoticons to Server</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to Add Custom Emoticons to Server</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:10;19:67" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap" href="#unique_10" id="unique_10" type="task" ohref="how_to_set_up_a_custom_mute_button.dita" first_topic_id="#unique_10"><topicmeta class="- map/topicmeta " data-topic-id="how_to_set_up_a_custom_mute_button"><resourceid class="- topic/resourceid " oxy-source="topic" appid="how_to_set_up_a_custom_mute_button"/><navtitle class="- topic/navtitle ">How to Set Up a Custom Mute Button</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to Set Up a Custom Mute Button</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topichead>
+</opentopic:map><concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/Users/User/Desktop/what_is_discord.dita" xtrc="concept:1;3:31" specializations="@props/deliveryTarget" oid="what_is_discord" id="unique_1">
+    <title class="- topic/title " xtrf="file:/C:/Users/User/Desktop/what_is_discord.dita" xtrc="title:1;4:12">What is Discord?</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/User/Desktop/what_is_discord.dita" xtrc="shortdesc:1;5:16"/>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/User/Desktop/what_is_discord.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/C:/Users/User/Desktop/what_is_discord.dita" xtrc="p:1;7:12"/>
+    </conbody>
+</concept><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" id="d106e25" class="+ topic/topic pdf2-d/placeholder "><title class="- topic/title ">Servers</title><concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/Users/User/Desktop/what_is_a_server.dita" xtrc="concept:1;3:32" specializations="@props/deliveryTarget" oid="what_is_a_server" id="unique_2">
+    <title class="- topic/title " xtrf="file:/C:/Users/User/Desktop/what_is_a_server.dita" xtrc="title:1;4:12">What is a Server?</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/User/Desktop/what_is_a_server.dita" xtrc="shortdesc:1;5:16"/>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/User/Desktop/what_is_a_server.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/C:/Users/User/Desktop/what_is_a_server.dita" xtrc="p:1;7:12"/>
+    </conbody>
+</concept><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/User/Desktop/how_to_make_a_server.dita" xtrc="task:1;3:33" specializations="@props/deliveryTarget" oid="how_to_make_a_server" id="unique_3">
+    <title class="- topic/title " xtrf="file:/C:/Users/User/Desktop/how_to_make_a_server.dita" xtrc="title:1;4:12">How to Make a Server</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/User/Desktop/how_to_make_a_server.dita" xtrc="shortdesc:1;5:16"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/User/Desktop/how_to_make_a_server.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/User/Desktop/how_to_make_a_server.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/User/Desktop/how_to_make_a_server.dita" xtrc="p:1;8:16"/>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/User/Desktop/how_to_make_a_server.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/User/Desktop/how_to_make_a_server.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/User/Desktop/how_to_make_a_server.dita" xtrc="cmd:1;12:22"/>
+            </step>
+        </steps>
+    </taskbody>
+</task><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/User/Desktop/how_to_add_people_in_a_server.dita" xtrc="task:1;3:42" specializations="@props/deliveryTarget" oid="how_to_add_people_in_a_server" id="unique_4">
+    <title class="- topic/title " xtrf="file:/C:/Users/User/Desktop/how_to_add_people_in_a_server.dita" xtrc="title:1;4:12">How to Add People in a Server</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/User/Desktop/how_to_add_people_in_a_server.dita" xtrc="shortdesc:1;5:16"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/User/Desktop/how_to_add_people_in_a_server.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/User/Desktop/how_to_add_people_in_a_server.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/User/Desktop/how_to_add_people_in_a_server.dita" xtrc="p:1;8:16"/>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/User/Desktop/how_to_add_people_in_a_server.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/User/Desktop/how_to_add_people_in_a_server.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/User/Desktop/how_to_add_people_in_a_server.dita" xtrc="cmd:1;12:22"/>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" id="d106e57" class="+ topic/topic pdf2-d/placeholder "><title class="- topic/title ">Voice Channels</title><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/User/Desktop/how_to_join_a_voice_channel.dita" xtrc="task:1;3:40" specializations="@props/deliveryTarget" oid="how_to_join_a_voice_channel" id="unique_5">
+    <title class="- topic/title " xtrf="file:/C:/Users/User/Desktop/how_to_join_a_voice_channel.dita" xtrc="title:1;4:12">How to Join a Voice Channel</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/User/Desktop/how_to_join_a_voice_channel.dita" xtrc="shortdesc:1;5:16"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/User/Desktop/how_to_join_a_voice_channel.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/User/Desktop/how_to_join_a_voice_channel.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/User/Desktop/how_to_join_a_voice_channel.dita" xtrc="p:1;8:16"/>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/User/Desktop/how_to_join_a_voice_channel.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/User/Desktop/how_to_join_a_voice_channel.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/User/Desktop/how_to_join_a_voice_channel.dita" xtrc="cmd:1;12:22"/>
+            </step>
+        </steps>
+    </taskbody>
+</task><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/User/Desktop/how_to_share_your_screen.dita" xtrc="task:1;3:37" specializations="@props/deliveryTarget" oid="how_to_share_your_screen" id="unique_6">
+    <title class="- topic/title " xtrf="file:/C:/Users/User/Desktop/how_to_share_your_screen.dita" xtrc="title:1;4:12">How to Share Your Screen</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/User/Desktop/how_to_share_your_screen.dita" xtrc="shortdesc:1;5:16"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/User/Desktop/how_to_share_your_screen.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/User/Desktop/how_to_share_your_screen.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/User/Desktop/how_to_share_your_screen.dita" xtrc="p:1;8:16"/>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/User/Desktop/how_to_share_your_screen.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/User/Desktop/how_to_share_your_screen.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/User/Desktop/how_to_share_your_screen.dita" xtrc="cmd:1;12:22"/>
+            </step>
+        </steps>
+    </taskbody>
+</task><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/User/Desktop/how_to_watch_a_stream.dita" xtrc="task:1;3:34" specializations="@props/deliveryTarget" oid="how_to_watch_a_stream" id="unique_7">
+    <title class="- topic/title " xtrf="file:/C:/Users/User/Desktop/how_to_watch_a_stream.dita" xtrc="title:1;4:12">How to Watch a Stream</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/User/Desktop/how_to_watch_a_stream.dita" xtrc="shortdesc:1;5:16"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/User/Desktop/how_to_watch_a_stream.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/User/Desktop/how_to_watch_a_stream.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/User/Desktop/how_to_watch_a_stream.dita" xtrc="p:1;8:16"/>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/User/Desktop/how_to_watch_a_stream.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/User/Desktop/how_to_watch_a_stream.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/User/Desktop/how_to_watch_a_stream.dita" xtrc="cmd:1;12:22"/>
+            </step>
+        </steps>
+    </taskbody>
+</task><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/User/Desktop/how_to_mute_or_deafen.dita" xtrc="task:1;3:34" specializations="@props/deliveryTarget" oid="how_to_mute_or_deafen" id="unique_8">
+    <title class="- topic/title " xtrf="file:/C:/Users/User/Desktop/how_to_mute_or_deafen.dita" xtrc="title:1;4:12">How to Mute or Deafen</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/User/Desktop/how_to_mute_or_deafen.dita" xtrc="shortdesc:1;5:16"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/User/Desktop/how_to_mute_or_deafen.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/User/Desktop/how_to_mute_or_deafen.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/User/Desktop/how_to_mute_or_deafen.dita" xtrc="p:1;8:16"/>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/User/Desktop/how_to_mute_or_deafen.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/User/Desktop/how_to_mute_or_deafen.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/User/Desktop/how_to_mute_or_deafen.dita" xtrc="cmd:1;12:22"/>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" id="d106e99" class="+ topic/topic pdf2-d/placeholder "><title class="- topic/title ">Customizations</title><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/User/Desktop/how_to_add_custom_emoticons_to_server.dita" xtrc="task:1;3:50" specializations="@props/deliveryTarget" oid="how_to_add_custom_emoticons_to_server" id="unique_9">
+    <title class="- topic/title " xtrf="file:/C:/Users/User/Desktop/how_to_add_custom_emoticons_to_server.dita" xtrc="title:1;4:12">How to Add Custom Emoticons to Server</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/User/Desktop/how_to_add_custom_emoticons_to_server.dita" xtrc="shortdesc:1;5:16"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/User/Desktop/how_to_add_custom_emoticons_to_server.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/User/Desktop/how_to_add_custom_emoticons_to_server.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/User/Desktop/how_to_add_custom_emoticons_to_server.dita" xtrc="p:1;8:16"/>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/User/Desktop/how_to_add_custom_emoticons_to_server.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/User/Desktop/how_to_add_custom_emoticons_to_server.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/User/Desktop/how_to_add_custom_emoticons_to_server.dita" xtrc="cmd:1;12:22"/>
+            </step>
+        </steps>
+    </taskbody>
+</task><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/User/Desktop/how_to_set_up_a_custom_mute_button.dita" xtrc="task:1;3:47" specializations="@props/deliveryTarget" oid="how_to_set_up_a_custom_mute_button" id="unique_10">
+    <title class="- topic/title " xtrf="file:/C:/Users/User/Desktop/how_to_set_up_a_custom_mute_button.dita" xtrc="title:1;4:12">How to Set Up a Custom Mute Button</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/User/Desktop/how_to_set_up_a_custom_mute_button.dita" xtrc="shortdesc:1;5:16"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/User/Desktop/how_to_set_up_a_custom_mute_button.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/User/Desktop/how_to_set_up_a_custom_mute_button.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/User/Desktop/how_to_set_up_a_custom_mute_button.dita" xtrc="p:1;8:16"/>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/User/Desktop/how_to_set_up_a_custom_mute_button.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/User/Desktop/how_to_set_up_a_custom_mute_button.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/User/Desktop/how_to_set_up_a_custom_mute_button.dita" xtrc="cmd:1;12:22"/>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic></map>

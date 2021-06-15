@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_make_a_server">
+    <title>How to Make a Server</title>
+    <shortdesc>Here you will learn how to make your server.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_stc_snl_5pb">
+            <p>To make a server, you need to have a Discord account first.</p>
+        </prereq>
+        <context>
+            <p>Making your own server allows you to add people who share similar interests as you.
+                It also makes communication between large groups of people easier.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the "+" button, located in the left sidebar of the application.</cmd>
+            </step>
+            <step>
+                <cmd>Select the option <i>Create My Own</i>. </cmd>
+                <info>
+                    <p><image href="create-server.JPG" id="image_omq_m4l_5pb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Select Option <i>For me and my friends</i></cmd>
+            </step>
+            <step>
+                <cmd>Input a name for your server.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <i>Create</i>. </cmd>
+                <info>
+                    <p><image href="adding-server-name.JPG" id="image_rrj_t4l_5pb"/></p>
+                </info>
+            </step>
+        </steps>
+        <result id="result_ojg_54l_5pb">
+            <p>You have now created your own server and you are able to see it in your <xref
+                    href="discord_interface.dita#discord_interface/section_arp_xhk_ypb"/> List.</p>
+        </result>
+    </taskbody>
+</task>

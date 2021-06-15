@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_a_server">
+    <title>What is a Server?</title>
+    <shortdesc>Here you will learn more about what a Server on Discord is.</shortdesc>
+    <conbody>
+        <p>Discord allows its users to make communities, which can message or talk to each other.
+            Each community is a <b>server</b>. You can write to people via text channels or talk to
+            them via voice channels.</p>
+        <p>Starting your own server, or joining someone else's server, is free.</p>
+        <p>If you have interest in something, you can probably find a Discord server for it and talk
+            to people who also share the same interest as you.</p>
+        <p>Every server can have multiple different channels, dedicated to a specific topic. </p>
+        <p>For example: You can have a channel for cat gifs, a separate channel for gaming, a third
+            for tv-shows and so on.</p>
+        <p>In the picture below you can see a server with 3 text channels, one of which is dedicated
+            only for gifs of cats.</p>
+        <image href="cat-channel.JPG" id="image_dw4_2ml_5pb"/>
+    </conbody>
+</concept>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_share_your_screen">
+    <title>How to Share Your Screen</title>
+    <shortdesc>Here you will learn how to share your screen.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_hdl_pck_ypb">To be able to share your screen, first you need to have
+            joined a voice channel. <xref href="how_to_join_a_voice_channel.dita"/></prereq>
+        <context>
+            <p>You can share your screen with everyone in the voice channel that you are in.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Navigate to the voice channel panel.</cmd>
+            </step>
+            <step>
+                <cmd>Press the screen button in the voice status panel - a new window will pop out. </cmd>
+                <info>
+                    <p><image href="screenShare.jpg" id="image_flr_cdk_ypb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Select an individual application window to share, or select an entire screen. </cmd>
+                <info>
+                    <p><image href="screenShare2.JPG" id="image_fd5_fdk_ypb" scale="90"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Press the <i>Go Live</i> button at the buttom of the window when you are ready
+                    to share your screen.</cmd>
+            </step>
+        </steps>
+        <result id="result_wpm_n2k_ypb">You are now sharing your screen.</result>
+    </taskbody>
+</task>

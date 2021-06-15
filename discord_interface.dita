@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="discord_interface">
+    <title>Discord Interface</title>
+    <shortdesc>Here you will find information about Discord's Interface.</shortdesc>
+    <refbody>
+        <section id="section_arp_xhk_ypb">
+            <title>Servers</title>
+            <p>The column on the left side of your Discord application is your server list. When you
+                join a server you will see its icon pop up in the server list.</p>
+            <p><image href="DiscordServers.jpg" id="image_zd3_zhk_ypb" scale="60"/></p>
+        </section>
+        <section id="section_myn_l3k_ypb">
+            <title>Channels</title>
+            <p>The column next to the server list shows the text and voice channels in which you can
+                take part in. Each server has their own channels.</p>
+            <p><image href="DiscordChannels.jpg" id="image_gnh_n3k_ypb" scale="60"/></p>
+        </section>
+        <section>
+            <title>Text Chat</title>
+            <p>The component in the middle of the application is the text messanger. Here members of
+                a server can write to each other. </p>
+            <p><image href="DiscordMessaging.jpg" id="image_qpw_k3k_ypb" scale="60"/></p>
+        </section>
+        <section id="section_dsq_n3k_ypb">
+            <title>Member List</title>
+            <p>The column on the right side of the application is the member list. It displays all
+                the members a server has and whether or not they are online. </p>
+            <p><image href="DiscordMemberList.jpg" id="image_phm_43k_ypb" scale="60"/></p>
+        </section>
+    </refbody>
+</reference>

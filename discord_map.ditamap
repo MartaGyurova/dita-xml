@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Discord End User Guide</title>
+    <topicref href="what_is_discord.dita"/>
+    <topicref href="discord_interface.dita"/>
+    <topichead navtitle="Servers">
+        <topicref href="what_is_a_server.dita"/>
+        <topicref href="how_to_make_a_server.dita"/>
+        <topicref href="how_to_add_people_in_a_server.dita"/>
+    </topichead>
+    <topichead navtitle="Voice Channels">
+        <topicref href="what_is_a_voice_channel.dita"/>
+        <topicref href="how_to_join_a_voice_channel.dita"/>
+        <topicref href="how_to_mute_or_deafen.dita"/>
+        <topicref href="how_to_share_your_screen.dita"/>
+        <topicref href="how_to_watch_a_stream.dita"/>
+    </topichead>
+    <topichead navtitle="Customizations">
+        <topicref href="how_to_add_custom_emoticons_to_server.dita"/>
+    </topichead>
+    <topicref href="source_for_reusable_image.dita" processing-role="resource-only"/>
+</map>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_watch_a_stream">
+    <title>How to Watch a Stream</title>
+    <shortdesc>Here you will learn how to watch a stream in Discord.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_ygz_t2k_ypb">To be able to watch a stream, you need to join a voice
+            channel and someone to share their screen. <xref href="how_to_join_a_voice_channel.dita"
+            /></prereq>
+        <context>
+            <p>Discord allows you to watch other people's streams - it is helpful when you need to
+                see something. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the red <i>Live</i> icon. </cmd>
+                <info>
+                    <p><image href="startedShare.JPG" id="image_hf2_rfk_ypb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Click on the <i>Watch Stream</i> button.  </cmd>
+                <info>
+                    <p><image href="watchStream.jpg" id="image_tyx_rfk_ypb"/></p>
+                </info>
+            </step>
+        </steps>
+        <result id="result_c1f_sfk_ypb">You are now watching someone's stream. </result>
+    </taskbody>
+</task>

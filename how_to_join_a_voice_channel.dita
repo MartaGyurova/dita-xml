@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_join_a_voice_channel">
+    <title>How to Join a Voice Channel</title>
+    <shortdesc>Here you will learn how to join a voice channel.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_dpj_kyj_ypb">To join a channel you need to have your own server or to
+            have joined one. <xref href="how_to_make_a_server.dita"/></prereq>
+        <context>
+            <p>Voice Channels make hanging out easier - they require no ringing - only to be in the
+                same server with your friends.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Navigate to the <i>Voice channels</i>. </cmd>
+            </step>
+            <step>
+                <cmd>Click on the voice channel you want to join.  </cmd>
+                <info>
+                    <p><image href="joinVoice.JPG" id="image_zfl_fzj_ypb"/></p>
+                </info>
+            </step>
+        </steps>
+        <result id="result_q4r_hzj_ypb">If you have successfully joined the voice channel you will
+            see your name in the channel as well as have a green sign that says <i>Voice
+                Connected</i>.  <p><image href="voiceConnected.JPG" id="image_cyl_vzj_ypb"/></p>
+        </result>
+    </taskbody>
+</task>

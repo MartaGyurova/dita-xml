@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Author 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Author 23/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Author 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/User/Desktop/discord_map.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Discord End User Guide</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Discord End User Guide</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_discord"><resourceid appid="what_is_discord" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">What is Discord?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn what Discord is and what it is used for.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="discord_interface"><resourceid appid="discord_interface" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Discord Interface</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will find information about Discord's Interface.</shortdesc></topicmeta></topicref>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Servers"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d124e38">Servers</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_a_server"><resourceid appid="what_is_a_server" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">What is a Server?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn more about what a Server on Discord is.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_make_a_server"><resourceid appid="how_to_make_a_server" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">How to Make a Server</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to make your server.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_add_people_in_a_server"><resourceid appid="how_to_add_people_in_a_server" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">How to Add People in a Server</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to add people to your server.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Voice Channels"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d124e73">Voice Channels</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_a_voice_channel"><resourceid appid="what_is_a_voice_channel" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">What is a Voice Channel</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn what a voice channel in Discord is.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_join_a_voice_channel"><resourceid appid="how_to_join_a_voice_channel" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">How to Join a Voice Channel</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to join a voice channel.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_mute_or_deafen"><resourceid appid="how_to_mute_or_deafen" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">How to Mute or Deafen</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to mute or deafen in a voice channel.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_share_your_screen"><resourceid appid="how_to_share_your_screen" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">How to Share Your Screen</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to share your screen.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_watch_a_stream"><resourceid appid="how_to_watch_a_stream" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">How to Watch a Stream</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to watch a stream in Discord.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Customizations"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d124e131">Customizations</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_add_custom_emoticons_to_server"><resourceid appid="how_to_add_custom_emoticons_to_server" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">How to Add Custom Emoticons to Server</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to add your own emoticons to a Discord Server.</shortdesc></topicmeta></topicref></topichead>
+    <?ditaot gentext?>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="what_is_discord" oid="what_is_discord" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is Discord?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn what Discord is and what it is used for.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Discord is a free application that allows you to talk and text with other people. </p>
+        <p class="- topic/p ">It is used daily from communities who talk regularly. You can use Discord for better
+            communication with your peers, for entertaining purposes like gaming, tv-shows, hobbies
+            etc, or work-related things like group projects.</p>
+        <p class="- topic/p ">Its purpose is to be able to create and manage private and public communities. It gives
+            users access to tools focused around commucation services like voice and video calls,
+            chat rooms along with the ability to send direct messages and create personal
+            groups.</p>
+        <p class="- topic/p ">Although at first Discord was directed only towards gamers, in recent years, after making
+            some updates, it is also useful to the general population.</p>
+    </conbody>
+</concept><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="discord_interface" oid="discord_interface" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Discord Interface</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will find information about Discord's Interface.</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <section class="- topic/section " id="unique_2_Connect_42_section_arp_xhk_ypb" nd:nd-id="section_arp_xhk_ypb">
+            <title class="- topic/title ">Servers</title>
+            <p class="- topic/p ">The column on the left side of your Discord application is your server list. When you
+                join a server you will see its icon pop up in the server list.</p>
+            <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/DiscordServers.jpg" id="unique_2_Connect_42_image_zd3_zhk_ypb" nd:nd-id="image_zd3_zhk_ypb" placement="inline" width="616" height="371" scale="60"/></p>
+        </section>
+        <section class="- topic/section " id="unique_2_Connect_42_section_myn_l3k_ypb" nd:nd-id="section_myn_l3k_ypb">
+            <title class="- topic/title ">Channels</title>
+            <p class="- topic/p ">The column next to the server list shows the text and voice channels in which you can
+                take part in. Each server has their own channels.</p>
+            <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/DiscordChannels.jpg" id="unique_2_Connect_42_image_gnh_n3k_ypb" nd:nd-id="image_gnh_n3k_ypb" placement="inline" width="616" height="371" scale="60"/></p>
+        </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Text Chat</title>
+            <p class="- topic/p ">The component in the middle of the application is the text messanger. Here members of
+                a server can write to each other. </p>
+            <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/DiscordMessaging.jpg" id="unique_2_Connect_42_image_qpw_k3k_ypb" nd:nd-id="image_qpw_k3k_ypb" placement="inline" width="616" height="371" scale="60"/></p>
+        </section>
+        <section class="- topic/section " id="unique_2_Connect_42_section_dsq_n3k_ypb" nd:nd-id="section_dsq_n3k_ypb">
+            <title class="- topic/title ">Member List</title>
+            <p class="- topic/p ">The column on the right side of the application is the member list. It displays all
+                the members a server has and whether or not they are online. </p>
+            <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/DiscordMemberList.jpg" id="unique_2_Connect_42_image_phm_43k_ypb" nd:nd-id="image_phm_43k_ypb" placement="inline" width="616" height="371" scale="60"/></p>
+        </section>
+    </refbody>
+</reference><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d124e38" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Servers</ph></title><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="what_is_a_server" oid="what_is_a_server" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is a Server?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn more about what a Server on Discord is.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Discord allows its users to make communities, which can message or talk to each other.
+            Each community is a <b class="+ topic/ph hi-d/b ">server</b>. You can write to people via text channels or talk to
+            them via voice channels.</p>
+        <p class="- topic/p ">Starting your own server, or joining someone else's server, is free.</p>
+        <p class="- topic/p ">If you have interest in something, you can probably find a Discord server for it and talk
+            to people who also share the same interest as you.</p>
+        <p class="- topic/p ">Every server can have multiple different channels, dedicated to a specific topic. </p>
+        <p class="- topic/p ">For example: You can have a channel for cat gifs, a separate channel for gaming, a third
+            for tv-shows and so on.</p>
+        <p class="- topic/p ">In the picture below you can see a server with 3 text channels, one of which is dedicated
+            only for gifs of cats.</p>
+        <image class="- topic/image " href="file:/C:/Users/User/Desktop/cat-channel.JPG" id="unique_3_Connect_42_image_dw4_2ml_5pb" nd:nd-id="image_dw4_2ml_5pb" placement="inline"/>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="how_to_make_a_server" oid="how_to_make_a_server" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Make a Server</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to make your server.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_4_Connect_42_prereq_stc_snl_5pb" nd:nd-id="prereq_stc_snl_5pb">
+            <p class="- topic/p ">To make a server, you need to have a Discord account first.</p>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Making your own server allows you to add people who share similar interests as you.
+                It also makes communication between large groups of people easier.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the "+" button, located in the left sidebar of the application.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the option <i class="+ topic/ph hi-d/i ">Create My Own</i>. </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/create-server.JPG" id="unique_4_Connect_42_image_omq_m4l_5pb" nd:nd-id="image_omq_m4l_5pb" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select Option <i class="+ topic/ph hi-d/i ">For me and my friends</i></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Input a name for your server.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on <i class="+ topic/ph hi-d/i ">Create</i>. </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/adding-server-name.JPG" id="unique_4_Connect_42_image_rrj_t4l_5pb" nd:nd-id="image_rrj_t4l_5pb" placement="inline"/></p>
+                </info>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_4_Connect_42_result_ojg_54l_5pb" nd:nd-id="result_ojg_54l_5pb">
+            <p class="- topic/p ">You have now created your own server and you are able to see it in your <xref class="- topic/xref " href="#unique_2_Connect_42_section_arp_xhk_ypb" type="section"><?ditaot gentext?>Servers</xref> List.</p>
+        </result>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="how_to_add_people_in_a_server" oid="how_to_add_people_in_a_server" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Add People in a Server</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to add people to your server.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_5_Connect_42_prereq_e1d_mpl_5pb" nd:nd-id="prereq_e1d_mpl_5pb">
+            <p class="- topic/p ">To be able to add people to your server, first you must have your own server. <xref class="- topic/xref " href="#unique_4" type="task"><?ditaot gentext?>How to Make a Server<?ditaot genshortdesc?><desc class="- topic/desc ">Here you will learn how to make your server.</desc></xref></p>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">When you add people to your server you make communication between you guys easier. </p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the server name in the top left of the application.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <i class="+ topic/ph hi-d/i ">Invite People</i>. </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/invPeople.jpg" id="unique_5_Connect_42_image_w2g_cwj_ypb" nd:nd-id="image_w2g_cwj_ypb" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Copy the auto-generated link you are given and send it to your friends. </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/adding-people.JPG" id="unique_5_Connect_42_image_cbd_mql_5pb" nd:nd-id="image_cbd_mql_5pb" placement="inline" width="361" height="336" scale="80"/></p>
+                </info>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_5_Connect_42_result_syk_3ql_5pb" nd:nd-id="result_syk_3ql_5pb">When someone accepts your invitation, they will appear in
+            your <xref class="- topic/xref " href="#unique_2_Connect_42_section_dsq_n3k_ypb" type="section"><?ditaot gentext?>Member List</xref>.</result>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d124e73" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Voice Channels</ph></title><concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="what_is_a_voice_channel" oid="what_is_a_voice_channel" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is a Voice Channel</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn what a voice channel in Discord is.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Voice channels </b>are where you can hang out over voice and video. There is no
+            calling required - you just click on a voice channel to enter it. People who are also in
+            the server can see you are in the voice channel and can join to talk at any timeas
+            well.</p>
+        <p class="- topic/p " id="unique_6_Connect_42_reuseImage" nd:nd-id="reuseImage">Here is where you can find the voice channel and its settings: </p><p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/discordLayout.JPG" id="unique_6_Connect_42_image_nbh_b5k_ypb" nd:nd-id="image_nbh_b5k_ypb" placement="inline"/></p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="how_to_join_a_voice_channel" oid="how_to_join_a_voice_channel" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Join a Voice Channel</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to join a voice channel.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_7_Connect_42_prereq_dpj_kyj_ypb" nd:nd-id="prereq_dpj_kyj_ypb">To join a channel you need to have your own server or to
+            have joined one. <xref class="- topic/xref " href="#unique_4" type="task"><?ditaot gentext?>How to Make a Server<?ditaot genshortdesc?><desc class="- topic/desc ">Here you will learn how to make your server.</desc></xref></prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Voice Channels make hanging out easier - they require no ringing - only to be in the
+                same server with your friends.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Navigate to the <i class="+ topic/ph hi-d/i ">Voice channels</i>. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the voice channel you want to join.  </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/joinVoice.JPG" id="unique_7_Connect_42_image_zfl_fzj_ypb" nd:nd-id="image_zfl_fzj_ypb" placement="inline"/></p>
+                </info>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_7_Connect_42_result_q4r_hzj_ypb" nd:nd-id="result_q4r_hzj_ypb">If you have successfully joined the voice channel you will
+            see your name in the channel as well as have a green sign that says <i class="+ topic/ph hi-d/i ">Voice
+                Connected</i>.  <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/voiceConnected.JPG" id="unique_7_Connect_42_image_cyl_vzj_ypb" nd:nd-id="image_cyl_vzj_ypb" placement="inline"/></p>
+        </result>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="how_to_mute_or_deafen" oid="how_to_mute_or_deafen" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Mute or Deafen</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to mute or deafen in a voice channel.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_8_Connect_42_prereq_nz3_lbk_ypb" nd:nd-id="prereq_nz3_lbk_ypb">To be able to use these functionalities you have to be
+            logged in your account.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Discord gives you the option to either mute or defean yourself. Muting yourself will
+                prevent others in the voice channel from hearing what you are saying. Deafening
+                yourself will prevent you from hearing others and will also mute you.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Navigate to the <i class="+ topic/ph hi-d/i ">Voice Channel</i> panel.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To mute yourself, click on the microphone icon: </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/mute.jpg" id="unique_8_Connect_42_image_ctz_fck_ypb" nd:nd-id="image_ctz_fck_ypb" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To deafen yourself, click on the headphone icon: </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/deafen.jpg" id="unique_8_Connect_42_image_a4t_hck_ypb" nd:nd-id="image_a4t_hck_ypb" placement="inline"/></p>
+                </info>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_8_Connect_42_result_xsf_kck_ypb" nd:nd-id="result_xsf_kck_ypb">Clicking on either of those will put a red slash across the
+            icon, indicating that you are either muted or deafened.</result>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="how_to_share_your_screen" oid="how_to_share_your_screen" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Share Your Screen</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to share your screen.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_9_Connect_42_prereq_hdl_pck_ypb" nd:nd-id="prereq_hdl_pck_ypb">To be able to share your screen, first you need to have
+            joined a voice channel. <xref class="- topic/xref " href="#unique_7" type="task"><?ditaot gentext?>How to Join a Voice Channel<?ditaot genshortdesc?><desc class="- topic/desc ">Here you will learn how to join a voice channel.</desc></xref></prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You can share your screen with everyone in the voice channel that you are in.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Navigate to the voice channel panel.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press the screen button in the voice status panel - a new window will pop out. </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/screenShare.jpg" id="unique_9_Connect_42_image_flr_cdk_ypb" nd:nd-id="image_flr_cdk_ypb" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select an individual application window to share, or select an entire screen. </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/screenShare2.JPG" id="unique_9_Connect_42_image_fd5_fdk_ypb" nd:nd-id="image_fd5_fdk_ypb" placement="inline" width="396" height="568" scale="90"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press the <i class="+ topic/ph hi-d/i ">Go Live</i> button at the buttom of the window when you are ready
+                    to share your screen.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_9_Connect_42_result_wpm_n2k_ypb" nd:nd-id="result_wpm_n2k_ypb">You are now sharing your screen.</result>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="how_to_watch_a_stream" oid="how_to_watch_a_stream" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Watch a Stream</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to watch a stream in Discord.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_10_Connect_42_prereq_ygz_t2k_ypb" nd:nd-id="prereq_ygz_t2k_ypb">To be able to watch a stream, you need to join a voice
+            channel and someone to share their screen. <xref class="- topic/xref " href="#unique_7" type="task"><?ditaot gentext?>How to Join a Voice Channel<?ditaot genshortdesc?><desc class="- topic/desc ">Here you will learn how to join a voice channel.</desc></xref></prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Discord allows you to watch other people's streams - it is helpful when you need to
+                see something. </p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the red <i class="+ topic/ph hi-d/i ">Live</i> icon. </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/startedShare.JPG" id="unique_10_Connect_42_image_hf2_rfk_ypb" nd:nd-id="image_hf2_rfk_ypb" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the <i class="+ topic/ph hi-d/i ">Watch Stream</i> button.  </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/watchStream.jpg" id="unique_10_Connect_42_image_tyx_rfk_ypb" nd:nd-id="image_tyx_rfk_ypb" placement="inline"/></p>
+                </info>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_10_Connect_42_result_c1f_sfk_ypb" nd:nd-id="result_c1f_sfk_ypb">You are now watching someone's stream. </result>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d124e131" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Customizations</ph></title><task class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="how_to_add_custom_emoticons_to_server" oid="how_to_add_custom_emoticons_to_server" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Add Custom Emoticons to Server</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to add your own emoticons to a Discord Server.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_11_Connect_42_prereq_jkb_scl_5pb" nd:nd-id="prereq_jkb_scl_5pb">
+            <p class="- topic/p ">To add emojis, you need to be a <b class="+ topic/ph hi-d/b ">server owner</b>, or to have <b class="+ topic/ph hi-d/b ">manage emoji</b>
+                permissions. <xref class="- topic/xref " href="#unique_4" type="task"><?ditaot gentext?>How to Make a Server<?ditaot genshortdesc?><desc class="- topic/desc ">Here you will learn how to make your server.</desc></xref></p>
+            <p class="- topic/p ">You also need to have a prepared emoticon.</p>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Every server has a library of emojis and you can customize it by adding your own
+                emoticons. If you are the server owner, you have this option by default, but if you
+                are not - you can ask the owner to give you permission to manage emoticons.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the server name in the top left of the application.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <i class="+ topic/ph hi-d/i ">Server Settings</i>. </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/server-settings.JPG" id="unique_11_Connect_42_image_vhl_khl_5pb" nd:nd-id="image_vhl_khl_5pb" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the <i class="+ topic/ph hi-d/i ">Emoji</i> tab.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the button <i class="+ topic/ph hi-d/i ">Upload Emoji</i>. </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/emoji-tab.JPG" id="unique_11_Connect_42_image_gpb_mhl_5pb" nd:nd-id="image_gpb_mhl_5pb" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the emoji you want to add and click <i class="+ topic/ph hi-d/i ">Open</i>.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_11_Connect_42_result_uq3_5fl_5pb" nd:nd-id="result_uq3_5fl_5pb">
+            <p class="- topic/p ">If you have followed the steps correctly, your Emoji tab will look like this: </p>
+            <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/added-emoji.JPG" id="unique_11_Connect_42_image_rv2_rhl_5pb" nd:nd-id="image_rv2_rhl_5pb" placement="inline"/></p>
+            <p class="- topic/p ">Your emoji is now added to the Server. You can find it by clicking on the emoji
+                tab(5) under your server's name(6).</p>
+            <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/User/Desktop/emoji-in-server.JPG" id="unique_11_Connect_42_image_fkc_yhl_5pb" nd:nd-id="image_fkc_yhl_5pb" placement="inline"/></p>
+        </result>
+    </taskbody>
+</task></topic></map>

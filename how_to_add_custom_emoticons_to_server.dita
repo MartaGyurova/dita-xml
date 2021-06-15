@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_add_custom_emoticons_to_server">
+    <title>How to Add Custom Emoticons to Server</title>
+    <shortdesc>Here you will learn how to add your own emoticons to a Discord Server.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_jkb_scl_5pb">
+            <p>To add emojis, you need to be a <b>server owner</b>, or to have <b>manage emoji</b>
+                permissions. <xref href="how_to_make_a_server.dita"/></p>
+            <p>You also need to have a prepared emoticon.</p>
+        </prereq>
+        <context>
+            <p>Every server has a library of emojis and you can customize it by adding your own
+                emoticons. If you are the server owner, you have this option by default, but if you
+                are not - you can ask the owner to give you permission to manage emoticons.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the server name in the top left of the application.</cmd>
+            </step>
+            <step>
+                <cmd>Select <i>Server Settings</i>. </cmd>
+                <info>
+                    <p><image href="server-settings.JPG" id="image_vhl_khl_5pb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Click on the <i>Emoji</i> tab.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the button <i>Upload Emoji</i>. </cmd>
+                <info>
+                    <p><image href="emoji-tab.JPG" id="image_gpb_mhl_5pb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Select the emoji you want to add and click <i>Open</i>.</cmd>
+            </step>
+        </steps>
+        <result id="result_uq3_5fl_5pb">
+            <p>If you have followed the steps correctly, your Emoji tab will look like this: </p>
+            <p><image href="added-emoji.JPG" id="image_rv2_rhl_5pb"/></p>
+            <p>Your emoji is now added to the Server. You can find it by clicking on the emoji
+                tab(5) under your server's name(6).</p>
+            <p><image href="emoji-in-server.JPG" id="image_fkc_yhl_5pb"/></p>
+        </result>
+    </taskbody>
+</task>

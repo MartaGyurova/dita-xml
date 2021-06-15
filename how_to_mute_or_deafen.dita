@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_mute_or_deafen">
+    <title>How to Mute or Deafen</title>
+    <shortdesc>Here you will learn how to mute or deafen in a voice channel.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_nz3_lbk_ypb">To be able to use these functionalities you have to be
+            logged in your account.</prereq>
+        <context>
+            <p>Discord gives you the option to either mute or defean yourself. Muting yourself will
+                prevent others in the voice channel from hearing what you are saying. Deafening
+                yourself will prevent you from hearing others and will also mute you.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Navigate to the <i>Voice Channel</i> panel.</cmd>
+            </step>
+            <step>
+                <cmd>To mute yourself, click on the microphone icon: </cmd>
+                <info>
+                    <p><image href="mute.jpg" id="image_ctz_fck_ypb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>To deafen yourself, click on the headphone icon: </cmd>
+                <info>
+                    <p><image href="deafen.jpg" id="image_a4t_hck_ypb"/></p>
+                </info>
+            </step>
+        </steps>
+        <result id="result_xsf_kck_ypb">Clicking on either of those will put a red slash across the
+            icon, indicating that you are either muted or deafened.</result>
+    </taskbody>
+</task>

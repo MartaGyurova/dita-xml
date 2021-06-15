@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="source_for_reusable_image">
+    <title>Source for Reusable Image</title>
+    <body>
+        <p conaction="mark" conref="what_is_a_voice_channel.dita#what_is_a_voice_channel/reuseImage"/>
+        <p conaction="pushafter"><image href="discordLayout.JPG" id="image_nbh_b5k_ypb"/></p>
+    </body>
+</topic>

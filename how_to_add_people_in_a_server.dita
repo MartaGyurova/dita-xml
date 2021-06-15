@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_add_people_in_a_server">
+    <title>How to Add People in a Server</title>
+    <shortdesc>Here you will learn how to add people to your server.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_e1d_mpl_5pb">
+            <p>To be able to add people to your server, first you must have your own server. <xref
+                    href="how_to_make_a_server.dita"/></p>
+        </prereq>
+        <context>
+            <p>When you add people to your server you make communication between you guys easier. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the server name in the top left of the application.</cmd>
+            </step>
+            <step>
+                <cmd>Select <i>Invite People</i>. </cmd>
+                <info>
+                    <p><image href="invPeople.jpg" id="image_w2g_cwj_ypb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Copy the auto-generated link you are given and send it to your friends. </cmd>
+                <info>
+                    <p><image href="adding-people.JPG" id="image_cbd_mql_5pb" scale="80"/></p>
+                </info>
+            </step>
+        </steps>
+        <result id="result_syk_3ql_5pb">When someone accepts your invitation, they will appear in
+            your <xref href="discord_interface.dita#discord_interface/section_dsq_n3k_ypb"
+            />.</result>
+    </taskbody>
+</task>

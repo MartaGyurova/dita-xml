@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_a_voice_channel">
+    <title>What is a Voice Channel</title>
+    <shortdesc>Here you will learn what a voice channel in Discord is.</shortdesc>
+    <conbody>
+        <p><b>Voice channels </b>are where you can hang out over voice and video. There is no
+            calling required - you just click on a voice channel to enter it. People who are also in
+            the server can see you are in the voice channel and can join to talk at any timeas
+            well.</p>
+        <p id="reuseImage">Here is where you can find the voice channel and its settings: </p>
+    </conbody>
+</concept>
